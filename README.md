@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">$o 🌌</a></b>.
+    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">kpri 🌌</a></b>.
     <br>python, ruby, javascript<br>
 
 </samp>
